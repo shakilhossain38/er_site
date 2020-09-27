@@ -1,6 +1,7 @@
 # er_site
 
-A new Flutter application.
+An Ecommerce app UI design using Flutter
+
 
 ## Getting Started
 
